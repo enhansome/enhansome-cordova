@@ -1,0 +1,441 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Generators",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "App",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "generator-m-ionic",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2020-07-08T10:33:09Z",
+                    "owner": "mway-io",
+                    "repo": "generator-m-ionic",
+                    "stars": 658
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-angularjs-cordova",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2023-11-28T06:49:51Z",
+                    "owner": "keshavos",
+                    "repo": "generator-angularjs-cordova",
+                    "stars": 93
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-redux-react-cordova",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2016-06-04T07:40:29Z",
+                    "owner": "zmeecer",
+                    "repo": "generator-redux-react-cordova",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-www",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "HTML",
+                    "last_commit": "2016-10-27T20:13:08Z",
+                    "owner": "busterc",
+                    "repo": "generator-cordova-www",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-onsenui-ngcordova",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2016-09-06T14:09:25Z",
+                    "owner": "healthonnet",
+                    "repo": "generator-onsenui-ngcordova",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-polymer-cordova",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2015-11-28T18:01:16Z",
+                    "owner": "emoriarty",
+                    "repo": "generator-polymer-cordova",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-react",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2015-10-17T00:00:46Z",
+                    "owner": "Jackong",
+                    "repo": "generator-cordova-react",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-ripple",
+                  "description": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Icons + Splash Screens",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cordova-resource-generators",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2015-12-17T08:27:00Z",
+                    "owner": "busterc",
+                    "repo": "cordova-resource-generators",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-res-builder",
+                  "description": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Icons",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cordova-icon",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2020-01-11T17:34:34Z",
+                    "owner": "AlexDisler",
+                    "repo": "cordova-icon",
+                    "stars": 683
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-resource-generators",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2015-12-17T08:27:00Z",
+                    "owner": "busterc",
+                    "repo": "cordova-resource-generators",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-icon-gm",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2018-05-08T18:10:00Z",
+                    "owner": "disusered",
+                    "repo": "cordova-icon-gm",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-res-builder",
+                  "description": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Splash Screens",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cordova-splash",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2020-09-14T13:56:36Z",
+                    "owner": "AlexDisler",
+                    "repo": "cordova-splash",
+                    "stars": 435
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-resource-generators",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Shell",
+                    "last_commit": "2015-12-17T08:27:00Z",
+                    "owner": "busterc",
+                    "repo": "cordova-resource-generators",
+                    "stars": 30
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-splash-gm",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "JavaScript",
+                    "last_commit": "2018-02-20T17:36:30Z",
+                    "owner": "disusered",
+                    "repo": "cordova-splash-gm",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cordova-res-builder",
+                  "description": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Plugin",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-plugin-devbed",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2016-05-26T11:27:38Z",
+                    "owner": "sony",
+                    "repo": "generator-cordova-plugin-devbed",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-plugin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2025-07-21T14:19:50Z",
+                    "owner": "lholmquist",
+                    "repo": "generator-cordova-plugin",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "generator-cordova-plugin-bb10",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "C++",
+                    "last_commit": "2015-10-01T20:59:37Z",
+                    "owner": "blackberry",
+                    "repo": "generator-cordova-plugin-bb10",
+                    "stars": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Testing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ripple",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2018-01-09T08:31:35Z",
+                "owner": "ripple-emulator",
+                "repo": "ripple",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ios-sim-inspector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2026-07-14T16:40:52Z",
+                "owner": "busterc",
+                "repo": "profiles",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Building",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "codova-custom-config",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-04-01T09:42:31Z",
+                "owner": "dpa99c",
+                "repo": "cordova-custom-config",
+                "stars": 317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xavtool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2018-12-19T21:38:41Z",
+                "owner": "gabrielrobert",
+                "repo": "xavtool",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cordova-xml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "JavaScript",
+                "last_commit": "2020-05-02T05:09:22Z",
+                "owner": "mifi",
+                "repo": "cordova-xml",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cordova-auto-patch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2016-06-18T20:38:07Z",
+                "owner": "alexshevch",
+                "repo": "cordova-auto-patch",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Logging",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bugfender",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-07-23T11:58:46Z",
+                "owner": "bugfender",
+                "repo": "cordova-plugin-bugfender",
+                "stars": 8
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:36.878Z",
+    "original_repository": "busterc/awesome-cordova",
+    "original_repository_sha": "47533432ce5a3f07aec6c05a65d19f0dafd9b68b",
+    "enhanced_repository": "enhansome/enhansome-cordova",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cordova with stars"
+  }
+}
