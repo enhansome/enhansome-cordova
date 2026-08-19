@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,6 +20,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 25458038,
                     "language": "JavaScript",
                     "last_commit": "2020-07-08T10:33:09Z",
                     "owner": "mway-io",
@@ -34,6 +35,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 19071472,
                     "language": "JavaScript",
                     "last_commit": "2023-11-28T06:49:51Z",
                     "owner": "keshavos",
@@ -48,6 +50,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 54255169,
                     "language": "JavaScript",
                     "last_commit": "2016-06-04T07:40:29Z",
                     "owner": "zmeecer",
@@ -62,6 +65,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 50057690,
                     "language": "HTML",
                     "last_commit": "2016-10-27T20:13:08Z",
                     "owner": "busterc",
@@ -76,6 +80,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 52088215,
                     "language": "JavaScript",
                     "last_commit": "2016-09-06T14:09:25Z",
                     "owner": "healthonnet",
@@ -90,6 +95,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 43769918,
                     "language": "JavaScript",
                     "last_commit": "2015-11-28T18:01:16Z",
                     "owner": "emoriarty",
@@ -104,18 +110,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 42160064,
                     "language": "JavaScript",
                     "last_commit": "2015-10-17T00:00:46Z",
                     "owner": "Jackong",
                     "repo": "generator-cordova-react",
                     "stars": 1
                   }
-                },
-                {
-                  "node_type": "item",
-                  "title": "generator-cordova-ripple",
-                  "description": null,
-                  "children": []
                 }
               ]
             },
@@ -131,18 +132,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21995426,
                     "language": "Shell",
                     "last_commit": "2015-12-17T08:27:00Z",
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
                     "stars": 30
                   }
-                },
-                {
-                  "node_type": "item",
-                  "title": "cordova-res-builder",
-                  "description": null,
-                  "children": []
                 }
               ]
             },
@@ -158,6 +154,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 20062670,
                     "language": "JavaScript",
                     "last_commit": "2020-01-11T17:34:34Z",
                     "owner": "AlexDisler",
@@ -172,6 +169,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21995426,
                     "language": "Shell",
                     "last_commit": "2015-12-17T08:27:00Z",
                     "owner": "busterc",
@@ -186,18 +184,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 31404115,
                     "language": "JavaScript",
                     "last_commit": "2018-05-08T18:10:00Z",
                     "owner": "disusered",
                     "repo": "cordova-icon-gm",
                     "stars": 5
                   }
-                },
-                {
-                  "node_type": "item",
-                  "title": "cordova-res-builder",
-                  "description": null,
-                  "children": []
                 }
               ]
             },
@@ -213,6 +206,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 21002138,
                     "language": "JavaScript",
                     "last_commit": "2020-09-14T13:56:36Z",
                     "owner": "AlexDisler",
@@ -227,6 +221,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 21995426,
                     "language": "Shell",
                     "last_commit": "2015-12-17T08:27:00Z",
                     "owner": "busterc",
@@ -241,18 +236,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 26069214,
                     "language": "JavaScript",
                     "last_commit": "2018-02-20T17:36:30Z",
                     "owner": "disusered",
                     "repo": "cordova-splash-gm",
                     "stars": 7
                   }
-                },
-                {
-                  "node_type": "item",
-                  "title": "cordova-res-builder",
-                  "description": null,
-                  "children": []
                 }
               ]
             },
@@ -268,6 +258,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 37042157,
                     "language": "JavaScript",
                     "last_commit": "2016-05-26T11:27:38Z",
                     "owner": "sony",
@@ -282,6 +273,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 12956941,
                     "language": "JavaScript",
                     "last_commit": "2025-07-21T14:19:50Z",
                     "owner": "lholmquist",
@@ -296,6 +288,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 41376983,
                     "language": "C++",
                     "last_commit": "2015-10-01T20:59:37Z",
                     "owner": "blackberry",
@@ -319,6 +312,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51118198,
                 "language": "JavaScript",
                 "last_commit": "2018-01-09T08:31:35Z",
                 "owner": "ripple-emulator",
@@ -333,6 +327,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19397144,
                 "language": "Shell",
                 "last_commit": "2026-07-14T16:40:52Z",
                 "owner": "busterc",
@@ -354,6 +349,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 43262947,
                 "language": "JavaScript",
                 "last_commit": "2026-04-01T09:42:31Z",
                 "owner": "dpa99c",
@@ -368,6 +364,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 122751098,
                 "language": "Go",
                 "last_commit": "2018-12-19T21:38:41Z",
                 "owner": "gabrielrobert",
@@ -382,6 +379,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 65993832,
                 "language": "JavaScript",
                 "last_commit": "2020-05-02T05:09:22Z",
                 "owner": "mifi",
@@ -396,6 +394,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 42161476,
                 "language": "JavaScript",
                 "last_commit": "2016-06-18T20:38:07Z",
                 "owner": "alexshevch",
@@ -417,6 +416,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 65020339,
                 "language": "JavaScript",
                 "last_commit": "2026-07-23T11:58:46Z",
                 "owner": "bugfender",
@@ -431,8 +431,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:52:29.888Z",
+    "last_updated": "2026-08-19T12:23:56.194Z",
     "original_repository": "busterc/awesome-cordova",
+    "original_repository_id": 22018956,
     "original_repository_sha": "47533432ce5a3f07aec6c05a65d19f0dafd9b68b",
     "enhanced_repository": "enhansome/enhansome-cordova",
     "enhanced_repository_description": null,
