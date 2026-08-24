@@ -14,8 +14,8 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 ## Learning
 
-* [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
 * [Create React App Tutorial](https://github.com/johnkmzhou/cordova-create-react-app) ⭐ 172 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-14
+* [Create your first Cordova app](https://cordova.apache.org/docs/en/latest/guide/cli/index.html)
 
 ## Plugins
 
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,618 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -98,4 +98,4 @@ Your contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

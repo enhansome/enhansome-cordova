@@ -4,6 +4,70 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Create React App Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116205984,
+            "language": "JavaScript",
+            "last_commit": "2018-08-14T20:09:15Z",
+            "owner": "johnkmzhou",
+            "repo": "cordova-create-react-app",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Ionic Framework",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alexintosh/Awesome-Ionic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26858332,
+                "language": null,
+                "last_commit": "2021-04-18T23:43:16Z",
+                "owner": "Alexintosh",
+                "repo": "Awesome-Ionic",
+                "stars": 1462
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "candelibas/awesome-ionic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53809858,
+                "language": null,
+                "last_commit": "2026-08-18T16:26:16Z",
+                "owner": "Cap-go",
+                "repo": "awesome-ionic",
+                "stars": 864
+              }
+            }
+          ]
+        }
+      ],
+      "title": "UI Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "group",
           "title": "Generators",
           "description": null,
@@ -431,7 +495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:41:42.588Z",
+    "last_updated": "2026-08-24T14:11:23.825Z",
     "original_repository": "busterc/awesome-cordova",
     "original_repository_id": 22018956,
     "original_repository_sha": "47533432ce5a3f07aec6c05a65d19f0dafd9b68b",
