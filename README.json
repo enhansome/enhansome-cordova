@@ -495,9 +495,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:00:55.555Z",
-    "original_repository": "busterc/awesome-cordova",
-    "original_repository_id": 22018956,
+    "last_updated": "2026-08-27T11:33:28.884Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22018956,
+      "language": "Ruby",
+      "last_commit": "2019-10-25T21:18:18Z",
+      "owner": "busterc",
+      "repo": "awesome-cordova",
+      "stars": 309
+    },
     "original_repository_sha": "47533432ce5a3f07aec6c05a65d19f0dafd9b68b",
     "enhanced_repository": "enhansome/enhansome-cordova",
     "enhanced_repository_description": null,
