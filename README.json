@@ -16,7 +16,8 @@
             "owner": "johnkmzhou",
             "repo": "cordova-create-react-app",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T23:00:03.849Z"
         }
       ],
       "title": "Learning"
@@ -42,7 +43,8 @@
                 "owner": "Alexintosh",
                 "repo": "Awesome-Ionic",
                 "stars": 1462
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             },
             {
               "node_type": "item",
@@ -57,7 +59,8 @@
                 "owner": "Cap-go",
                 "repo": "awesome-ionic",
                 "stars": 864
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             }
           ]
         }
@@ -90,7 +93,8 @@
                     "owner": "mway-io",
                     "repo": "generator-m-ionic",
                     "stars": 658
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -105,7 +109,8 @@
                     "owner": "keshavos",
                     "repo": "generator-angularjs-cordova",
                     "stars": 93
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -120,7 +125,8 @@
                     "owner": "zmeecer",
                     "repo": "generator-redux-react-cordova",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -135,7 +141,8 @@
                     "owner": "busterc",
                     "repo": "generator-cordova-www",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -150,7 +157,8 @@
                     "owner": "healthonnet",
                     "repo": "generator-onsenui-ngcordova",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -165,7 +173,8 @@
                     "owner": "emoriarty",
                     "repo": "generator-polymer-cordova",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -180,7 +189,8 @@
                     "owner": "Jackong",
                     "repo": "generator-cordova-react",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 }
               ]
             },
@@ -202,7 +212,8 @@
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 }
               ]
             },
@@ -224,7 +235,8 @@
                     "owner": "AlexDisler",
                     "repo": "cordova-icon",
                     "stars": 683
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -239,7 +251,8 @@
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -254,7 +267,8 @@
                     "owner": "disusered",
                     "repo": "cordova-icon-gm",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 }
               ]
             },
@@ -276,7 +290,8 @@
                     "owner": "AlexDisler",
                     "repo": "cordova-splash",
                     "stars": 435
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -291,7 +306,8 @@
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -306,7 +322,8 @@
                     "owner": "disusered",
                     "repo": "cordova-splash-gm",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 }
               ]
             },
@@ -328,7 +345,8 @@
                     "owner": "sony",
                     "repo": "generator-cordova-plugin-devbed",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -343,7 +361,8 @@
                     "owner": "lholmquist",
                     "repo": "generator-cordova-plugin",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 },
                 {
                   "node_type": "item",
@@ -358,7 +377,8 @@
                     "owner": "blackberry",
                     "repo": "generator-cordova-plugin-bb10",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:00:03.849Z"
                 }
               ]
             }
@@ -382,7 +402,8 @@
                 "owner": "ripple-emulator",
                 "repo": "ripple",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             },
             {
               "node_type": "item",
@@ -397,7 +418,8 @@
                 "owner": "busterc",
                 "repo": "profiles",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             }
           ]
         },
@@ -419,7 +441,8 @@
                 "owner": "dpa99c",
                 "repo": "cordova-custom-config",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             },
             {
               "node_type": "item",
@@ -434,7 +457,8 @@
                 "owner": "gabrielrobert",
                 "repo": "xavtool",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             },
             {
               "node_type": "item",
@@ -449,7 +473,8 @@
                 "owner": "mifi",
                 "repo": "cordova-xml",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             },
             {
               "node_type": "item",
@@ -464,7 +489,8 @@
                 "owner": "alexshevch",
                 "repo": "cordova-auto-patch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             }
           ]
         },
@@ -486,7 +512,8 @@
                 "owner": "bugfender",
                 "repo": "cordova-plugin-bugfender",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:00:03.849Z"
             }
           ]
         }
@@ -495,7 +522,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:55:43.879Z",
+    "last_updated": "2026-08-28T23:00:03.849Z",
     "original_repository_info": {
       "archived": false,
       "id": 22018956,
