@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tutorial on how to set up a Cordova project using Create React App.",
+            "homepage": null,
             "id": 116205984,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-14T20:09:15Z",
+            "open_issues": 6,
             "owner": "johnkmzhou",
             "repo": "cordova-create-react-app",
-            "stars": 172
+            "stars": 172,
+            "topics": [
+              "cordova",
+              "create-react-app",
+              "react",
+              "starter",
+              "tutorial",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:00:03.849Z"
         }
@@ -37,12 +49,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 A curated list of amazingly awesome Ionic libraries, resources and solutions.",
+                "homepage": null,
                 "id": 26858332,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-18T23:43:16Z",
+                "open_issues": 14,
                 "owner": "Alexintosh",
                 "repo": "Awesome-Ionic",
-                "stars": 1462
+                "stars": 1462,
+                "topics": [
+                  "angular",
+                  "cordova-plugin",
+                  "ionic",
+                  "ionic-libraries"
+                ]
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             },
@@ -53,12 +75,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of Ionic resources. Made by Capgo",
+                "homepage": "https://capgo.app",
                 "id": 53809858,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T16:26:16Z",
+                "open_issues": 0,
                 "owner": "Cap-go",
                 "repo": "awesome-ionic",
-                "stars": 864
+                "stars": 864,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cordova",
+                  "ionic",
+                  "ionic-framework",
+                  "ionic2",
+                  "ionic3",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             }
@@ -87,12 +123,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Advanced workflows and setup for building rock-solid Ionic apps",
+                    "homepage": null,
                     "id": 25458038,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-07-08T10:33:09Z",
+                    "open_issues": 54,
                     "owner": "mway-io",
                     "repo": "generator-m-ionic",
-                    "stars": 658
+                    "stars": 658,
+                    "topics": [
+                      "angular",
+                      "browsersync",
+                      "cordova",
+                      "ionic",
+                      "karma",
+                      "protractor",
+                      "sass",
+                      "yeoman-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -103,12 +153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A yeoman generator which combines the best features and practices to initialise and scaffold an AngularJS based cordova mobile app using a module based approach.",
+                    "homepage": " http://keshavos.github.io/generator-angularjs-cordova",
                     "id": 19071472,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-11-28T06:49:51Z",
+                    "open_issues": 27,
                     "owner": "keshavos",
                     "repo": "generator-angularjs-cordova",
-                    "stars": 93
+                    "stars": 93,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -119,12 +174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Yeoman generator for creation Hybrid Mobile Application (based on Cordova/Phonegap)",
+                    "homepage": null,
                     "id": 54255169,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2016-06-04T07:40:29Z",
+                    "open_issues": 2,
                     "owner": "zmeecer",
                     "repo": "generator-redux-react-cordova",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -135,12 +195,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":iphone: A Yeoman generator that scaffolds a minimal www directory for a new Cordova app, with optional JavaScript flavors: jQuery, Framework7 or Vanilla.",
+                    "homepage": null,
                     "id": 50057690,
                     "language": "HTML",
+                    "license": "ISC",
                     "last_commit": "2016-10-27T20:13:08Z",
+                    "open_issues": 0,
                     "owner": "busterc",
                     "repo": "generator-cordova-www",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "cordova-template",
+                      "framework7",
+                      "yeoman-generator"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -151,12 +220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A yeoman Generator for scaffolding Onsen UI / ngCordova App ",
+                    "homepage": null,
                     "id": 52088215,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2016-09-06T14:09:25Z",
+                    "open_issues": 0,
                     "owner": "healthonnet",
                     "repo": "generator-onsenui-ngcordova",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -167,12 +241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scaffold out a Polymer project",
+                    "homepage": "http://polymer-project.org",
                     "id": 43769918,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2015-11-28T18:01:16Z",
+                    "open_issues": 0,
                     "owner": "emoriarty",
                     "repo": "generator-polymer-cordova",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -183,12 +262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "generator for cordova with react",
+                    "homepage": null,
                     "id": 42160064,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2015-10-17T00:00:46Z",
+                    "open_issues": 0,
                     "owner": "Jackong",
                     "repo": "generator-cordova-react",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 }
@@ -206,12 +290,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":art: Quickly generate mobile app icons and splash screens for Cordova builds",
+                    "homepage": null,
                     "id": 21995426,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2015-12-17T08:27:00Z",
+                    "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "cordova",
+                      "icon-generator",
+                      "splash-screen",
+                      "splashscreen"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 }
@@ -229,12 +323,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Automatic icon resizing for Cordova",
+                    "homepage": null,
                     "id": 20062670,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-01-11T17:34:34Z",
+                    "open_issues": 55,
                     "owner": "AlexDisler",
                     "repo": "cordova-icon",
-                    "stars": 683
+                    "stars": 683,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -245,12 +344,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":art: Quickly generate mobile app icons and splash screens for Cordova builds",
+                    "homepage": null,
                     "id": 21995426,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2015-12-17T08:27:00Z",
+                    "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "cordova",
+                      "icon-generator",
+                      "splash-screen",
+                      "splashscreen"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -261,12 +370,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Automatic icon resizing for Cordova",
+                    "homepage": null,
                     "id": 31404115,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-05-08T18:10:00Z",
+                    "open_issues": 2,
                     "owner": "disusered",
                     "repo": "cordova-icon-gm",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 }
@@ -284,12 +398,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Automatic splash screen generator for Cordova ",
+                    "homepage": null,
                     "id": 21002138,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2020-09-14T13:56:36Z",
+                    "open_issues": 21,
                     "owner": "AlexDisler",
                     "repo": "cordova-splash",
-                    "stars": 435
+                    "stars": 435,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -300,12 +419,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":art: Quickly generate mobile app icons and splash screens for Cordova builds",
+                    "homepage": null,
                     "id": 21995426,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2015-12-17T08:27:00Z",
+                    "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "cordova",
+                      "icon-generator",
+                      "splash-screen",
+                      "splashscreen"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -316,12 +445,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Automatic splash screen resizing for Cordova",
+                    "homepage": null,
                     "id": 26069214,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2018-02-20T17:36:30Z",
+                    "open_issues": 1,
                     "owner": "disusered",
                     "repo": "cordova-splash-gm",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 }
@@ -339,12 +473,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 37042157,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2016-05-26T11:27:38Z",
+                    "open_issues": 1,
                     "owner": "sony",
                     "repo": "generator-cordova-plugin-devbed",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -355,12 +494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 12956941,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-21T14:19:50Z",
+                    "open_issues": 1,
                     "owner": "lholmquist",
                     "repo": "generator-cordova-plugin",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 },
@@ -371,12 +515,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Yeoman generator for a BB10 Cordova plugin and sample app",
+                    "homepage": null,
                     "id": 41376983,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2015-10-01T20:59:37Z",
+                    "open_issues": 0,
                     "owner": "blackberry",
                     "repo": "generator-cordova-plugin-bb10",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
                 }
@@ -396,12 +545,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser based, platform agnostic mobile application development and testing tool.",
+                "homepage": null,
                 "id": 51118198,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2018-01-09T08:31:35Z",
+                "open_issues": 18,
                 "owner": "ripple-emulator",
                 "repo": "ripple",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             },
@@ -412,12 +566,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":beginner: dotfiles, system defaults and more",
+                "homepage": null,
                 "id": 19397144,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-14T16:40:52Z",
+                "open_issues": 0,
                 "owner": "busterc",
                 "repo": "profiles",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bash-profile",
+                  "dotfiles"
+                ]
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             }
@@ -435,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml",
+                "homepage": null,
                 "id": 43262947,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-04-01T09:42:31Z",
+                "open_issues": 6,
                 "owner": "dpa99c",
                 "repo": "cordova-custom-config",
-                "stars": 317
+                "stars": 317,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             },
@@ -451,12 +618,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xplat Automating Version Tool",
+                "homepage": "https://gabrielrobert.github.io/xavtool/",
                 "id": 122751098,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2018-12-19T21:38:41Z",
+                "open_issues": 9,
                 "owner": "gabrielrobert",
                 "repo": "xavtool",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "android",
+                  "cli",
+                  "ios",
+                  "semver",
+                  "uwp",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             },
@@ -467,12 +646,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Edit cordova config.xml from the command line or via API",
+                "homepage": null,
                 "id": 65993832,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-05-02T05:09:22Z",
+                "open_issues": 1,
                 "owner": "mifi",
                 "repo": "cordova-xml",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             },
@@ -483,12 +667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically increment patch version in config.xml",
+                "homepage": null,
                 "id": 42161476,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-18T20:38:07Z",
+                "open_issues": 1,
                 "owner": "alexshevch",
                 "repo": "cordova-auto-patch",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             }
@@ -506,12 +695,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bugfender support for Cordova applications under iOS and Android",
+                "homepage": null,
                 "id": 65020339,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-23T11:58:46Z",
+                "open_issues": 1,
                 "owner": "bugfender",
                 "repo": "cordova-plugin-bugfender",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "android",
+                  "bugfender",
+                  "cordova",
+                  "cordova-plugin",
+                  "ios",
+                  "phonegap"
+                ]
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
             }
@@ -522,15 +723,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:00:03.849Z",
+    "last_updated": "2026-08-29T04:47:51.381Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
+      "homepage": null,
       "id": 22018956,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2019-10-25T21:18:18Z",
+      "open_issues": 0,
       "owner": "busterc",
       "repo": "awesome-cordova",
-      "stars": 309
+      "stars": 309,
+      "topics": [
+        "awesome-list",
+        "cordova",
+        "cordova-libraries",
+        "framework7",
+        "ionic",
+        "kendo-ui",
+        "onsen-ui",
+        "phonegap"
+      ]
     },
     "original_repository_sha": "47533432ce5a3f07aec6c05a65d19f0dafd9b68b",
     "enhanced_repository": "enhansome/enhansome-cordova",
