@@ -58,7 +58,7 @@
                 "open_issues": 14,
                 "owner": "Alexintosh",
                 "repo": "Awesome-Ionic",
-                "stars": 1462,
+                "stars": 1461,
                 "topics": [
                   "angular",
                   "cordova-plugin",
@@ -602,8 +602,8 @@
                 "id": 43262947,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-04-01T09:42:31Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-03T10:15:59Z",
+                "open_issues": 0,
                 "owner": "dpa99c",
                 "repo": "cordova-custom-config",
                 "stars": 317,
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:07:18.058Z",
+    "last_updated": "2026-09-03T17:01:24.823Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",

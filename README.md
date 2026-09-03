@@ -28,7 +28,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 React](https://framework7.io/react/)
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
-  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,462 | 🐛 14 | 📅 2021-04-18
+  * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,461 | 🐛 14 | 📅 2021-04-18
   * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) ⭐ 864 | 🐛 0 | 📅 2026-08-18
 * [jQuery Mobile](https://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
@@ -81,7 +81,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ripple](https://github.com/ripple-emulator/ripple) ⭐ 57 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-09
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-07-14
 * Building
-  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) ⭐ 317 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-01
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) ⭐ 317 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03
   * [xavtool](https://github.com/gabrielrobert/xavtool) ⭐ 35 | 🐛 9 | 🌐 Go | 📅 2018-12-19
   * [cordova-xml](https://github.com/mifi/cordova-xml) ⚠️ Archived
   * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2016-06-18
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,643 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,645 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -98,4 +98,4 @@ Your contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
