@@ -81,7 +81,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [ripple](https://github.com/ripple-emulator/ripple) ⭐ 57 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-09
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-07-14
 * Building
-  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) ⭐ 317 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-03
+  * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) ⭐ 317 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-07
   * [xavtool](https://github.com/gabrielrobert/xavtool) ⭐ 35 | 🐛 9 | 🌐 Go | 📅 2018-12-19
   * [cordova-xml](https://github.com/mifi/cordova-xml) ⚠️ Archived
   * [cordova-auto-patch](https://github.com/alexshevch/cordova-auto-patch) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2016-06-18
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,655 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,658 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -98,4 +98,4 @@ Your contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
