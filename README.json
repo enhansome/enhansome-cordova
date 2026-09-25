@@ -58,7 +58,7 @@
                 "open_issues": 14,
                 "owner": "Alexintosh",
                 "repo": "Awesome-Ionic",
-                "stars": 1460,
+                "stars": 1459,
                 "topics": [
                   "angular",
                   "cordova-plugin",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:50:17.033Z",
+    "last_updated": "2026-09-25T17:55:29.619Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
