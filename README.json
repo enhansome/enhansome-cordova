@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Create React App Tutorial",
-          "description": null,
+          "description": "johnkmzhou/cordova-create-react-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "Alexintosh/Awesome-Ionic",
-              "description": null,
+              "description": "Alexintosh/Awesome-Ionic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -71,7 +71,7 @@
             {
               "node_type": "item",
               "title": "candelibas/awesome-ionic",
-              "description": null,
+              "description": "Cap-go/awesome-ionic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-m-ionic",
-                  "description": null,
+                  "description": "mway-io/generator-m-ionic",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -149,7 +149,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-angularjs-cordova",
-                  "description": null,
+                  "description": "keshavos/generator-angularjs-cordova",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -170,7 +170,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-redux-react-cordova",
-                  "description": null,
+                  "description": "zmeecer/generator-redux-react-cordova",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -191,7 +191,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-cordova-www",
-                  "description": null,
+                  "description": "busterc/generator-cordova-www",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -216,7 +216,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-onsenui-ngcordova",
-                  "description": null,
+                  "description": "healthonnet/generator-onsenui-ngcordova",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -237,7 +237,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-polymer-cordova",
-                  "description": null,
+                  "description": "emoriarty/generator-polymer-cordova",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -258,7 +258,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-cordova-react",
-                  "description": null,
+                  "description": "Jackong/generator-cordova-react",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -286,7 +286,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-resource-generators",
-                  "description": null,
+                  "description": "busterc/cordova-resource-generators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -319,7 +319,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-icon",
-                  "description": null,
+                  "description": "AlexDisler/cordova-icon",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -340,7 +340,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-resource-generators",
-                  "description": null,
+                  "description": "busterc/cordova-resource-generators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -366,7 +366,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-icon-gm",
-                  "description": null,
+                  "description": "disusered/cordova-icon-gm",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -394,7 +394,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-splash",
-                  "description": null,
+                  "description": "AlexDisler/cordova-splash",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -415,7 +415,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-resource-generators",
-                  "description": null,
+                  "description": "busterc/cordova-resource-generators",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -441,7 +441,7 @@
                 {
                   "node_type": "item",
                   "title": "cordova-splash-gm",
-                  "description": null,
+                  "description": "disusered/cordova-splash-gm",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -469,7 +469,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-cordova-plugin-devbed",
-                  "description": null,
+                  "description": "sony/generator-cordova-plugin-devbed",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -490,7 +490,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-cordova-plugin",
-                  "description": null,
+                  "description": "lholmquist/generator-cordova-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -511,7 +511,7 @@
                 {
                   "node_type": "item",
                   "title": "generator-cordova-plugin-bb10",
-                  "description": null,
+                  "description": "blackberry/generator-cordova-plugin-bb10",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -541,7 +541,7 @@
             {
               "node_type": "item",
               "title": "ripple",
-              "description": null,
+              "description": "ripple-emulator/ripple",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
             {
               "node_type": "item",
               "title": "ios-sim-inspector",
-              "description": null,
+              "description": "busterc/profiles",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,7 +593,7 @@
             {
               "node_type": "item",
               "title": "codova-custom-config",
-              "description": null,
+              "description": "dpa99c/cordova-custom-config",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -614,7 +614,7 @@
             {
               "node_type": "item",
               "title": "xavtool",
-              "description": null,
+              "description": "gabrielrobert/xavtool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -642,7 +642,7 @@
             {
               "node_type": "item",
               "title": "cordova-xml",
-              "description": null,
+              "description": "mifi/cordova-xml",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "cordova-auto-patch",
-              "description": null,
+              "description": "alexshevch/cordova-auto-patch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "Bugfender",
-              "description": null,
+              "description": "bugfender/cordova-plugin-bugfender",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:21:29.483Z",
+    "last_updated": "2026-10-03T04:37:57.838Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
