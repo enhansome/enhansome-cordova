@@ -81,7 +81,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-12T16:07:59Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "awesome-ionic",
                 "stars": 863,
@@ -554,7 +554,7 @@
                 "open_issues": 18,
                 "owner": "ripple-emulator",
                 "repo": "ripple",
-                "stars": 57,
+                "stars": 58,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:57:41.353Z",
+    "last_updated": "2026-10-15T17:44:08.440Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
