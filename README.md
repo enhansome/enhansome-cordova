@@ -29,7 +29,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   * [Framework7 Vue](https://framework7.io/vue/)
 * [Ionic Framework](https://ionicframework.com/)
   * [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) ⭐ 1,460 | 🐛 14 | 📅 2021-04-18
-  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) ⭐ 863 | 🐛 2 | 📅 2026-10-12
+  * [candelibas/awesome-ionic](https://github.com/candelibas/awesome-ionic) ⭐ 864 | 🐛 2 | 📅 2026-10-12
 * [jQuery Mobile](https://jquerymobile.com/)
 * [Kendo UI Core](https://www.telerik.com/kendo-ui/open-source-core)
 * [Onsen UI](https://onsen.io/)
@@ -98,4 +98,4 @@ Your contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
