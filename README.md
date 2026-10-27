@@ -61,16 +61,16 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-react](https://github.com/jackong/generator-cordova-react) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-17
     * [generator-cordova-ripple](https://github.com/keunlee/generator-cordova-ripple)
   * Icons + Splash Screens
-    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 30 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
+    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 29 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
   * Icons
     * [cordova-icon](https://github.com/AlexDisler/cordova-icon) ⚠️ Archived
-    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 30 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
+    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 29 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
     * [cordova-icon-gm](https://github.com/disusered/cordova-icon-gm) ⚠️ Archived
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
   * Splash Screens
     * [cordova-splash](https://github.com/AlexDisler/cordova-splash) ⚠️ Archived
-    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 30 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
+    * [cordova-resource-generators](https://github.com/busterc/cordova-resource-generators) ⭐ 29 | 🐛 4 | 🌐 Shell | 📅 2015-12-17
     * [cordova-splash-gm](https://github.com/disusered/cordova-splash-gm) ⚠️ Archived
     * [cordova-res-builder](https://github.com/mettbox/cordova-res-builder)
   * Plugin
@@ -78,7 +78,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     * [generator-cordova-plugin](https://github.com/lholmquist/generator-cordova-plugin) ⭐ 13 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-21
     * [generator-cordova-plugin-bb10](https://github.com/blackberry/generator-cordova-plugin-bb10) ⚠️ Archived
 * Testing
-  * [ripple](https://github.com/ripple-emulator/ripple) ⭐ 58 | 🐛 18 | 🌐 JavaScript | 📅 2018-01-09
+  * [ripple](https://github.com/ripple-emulator/ripple) ⚠️ Archived
   * [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-07-14
 * Building
   * [codova-custom-config](https://github.com/dpa99c/cordova-custom-config) ⭐ 317 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-18
@@ -90,7 +90,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,747 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,751 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
@@ -98,4 +98,4 @@ Your contributions are always welcome!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

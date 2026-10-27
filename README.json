@@ -299,7 +299,7 @@
                     "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": [
                       "cordova",
                       "icon-generator",
@@ -353,7 +353,7 @@
                     "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": [
                       "cordova",
                       "icon-generator",
@@ -428,7 +428,7 @@
                     "open_issues": 4,
                     "owner": "busterc",
                     "repo": "cordova-resource-generators",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": [
                       "cordova",
                       "icon-generator",
@@ -544,13 +544,13 @@
               "description": "ripple-emulator/ripple",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A browser based, platform agnostic mobile application development and testing tool.",
                 "homepage": null,
                 "id": 51118198,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2018-01-09T08:31:35Z",
+                "last_commit": "2026-10-27T01:12:35Z",
                 "open_issues": 18,
                 "owner": "ripple-emulator",
                 "repo": "ripple",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:12:20.291Z",
+    "last_updated": "2026-10-27T18:38:56.145Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
