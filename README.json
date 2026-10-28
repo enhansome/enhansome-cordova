@@ -554,7 +554,7 @@
                 "open_issues": 18,
                 "owner": "ripple-emulator",
                 "repo": "ripple",
-                "stars": 58,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:00:03.849Z"
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T18:38:56.145Z",
+    "last_updated": "2026-10-28T18:47:55.554Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
