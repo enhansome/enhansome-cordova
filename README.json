@@ -329,7 +329,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2020-01-11T17:34:34Z",
-                    "open_issues": 55,
+                    "open_issues": 54,
                     "owner": "AlexDisler",
                     "repo": "cordova-icon",
                     "stars": 683,
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:18:48.869Z",
+    "last_updated": "2026-11-09T22:57:39.038Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
