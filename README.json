@@ -84,7 +84,7 @@
                 "open_issues": 4,
                 "owner": "Cap-go",
                 "repo": "awesome-ionic",
-                "stars": 865,
+                "stars": 866,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:57:39.038Z",
+    "last_updated": "2026-11-10T20:25:33.663Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
