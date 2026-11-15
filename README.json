@@ -162,7 +162,7 @@
                     "open_issues": 27,
                     "owner": "keshavos",
                     "repo": "generator-angularjs-cordova",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:42:27.311Z",
+    "last_updated": "2026-11-15T19:20:22.124Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
