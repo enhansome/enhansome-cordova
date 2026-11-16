@@ -407,7 +407,7 @@
                     "open_issues": 21,
                     "owner": "AlexDisler",
                     "repo": "cordova-splash",
-                    "stars": 435,
+                    "stars": 434,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:00:03.849Z"
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:20:22.124Z",
+    "last_updated": "2026-11-16T22:50:49.022Z",
     "original_repository_info": {
       "archived": false,
       "description": ":iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.",
