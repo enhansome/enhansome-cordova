@@ -90,7 +90,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,810 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,809 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
 
 # Contributing
 
